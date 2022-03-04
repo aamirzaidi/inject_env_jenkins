@@ -1,4 +1,5 @@
 
 def call() {
-		return [name:"aamir"];
+	echo "my name is aamir";
+	return [name:"aamir"];
 }
